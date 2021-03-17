@@ -1,5 +1,5 @@
-# bwt2map
-A snakemake workflow to do alignment with bowtie2, and some down-stream analysis
+# LCPsCluster
+The LCPsCluster module for the [On-rep-seq](https://github.com/lauramilena3/On-rep-seq).
 
 ## Usage
 
