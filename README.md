@@ -9,4 +9,4 @@ You can edit the path to `input_dir` and `results_dir` in the `config.yaml`, and
 
 Or pass the arguments in the console.
 
-    snakemake -p --use-conda -j 8 --config input_dir=/path/to/input_dir results_dir=/path/to/results_dir threads_taxa=8
+    snakemake -p --use-conda -j 8 --config input_dir=/path/to/input_dir results_dir=/path/to/results_dir
