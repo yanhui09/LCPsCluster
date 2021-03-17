@@ -1,0 +1,3 @@
+# This file should contain everything to configure the workflow on a global scale.
+input_dir: "/home/yanhui/Documents/sample_preparation/on-rep-seq-LK/merged_LCps"
+results_dir: "/home/yanhui/Documents/sample_preparation/on-rep-seq-LK/results"

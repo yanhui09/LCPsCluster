@@ -1,0 +1,21 @@
+channels:
+  - au-eoed
+  - conda-forge
+  - bioconda
+dependencies:
+  - gnu-parallel =20161122
+  - r-optparse =1.6.0
+  - r-ggplot2 =3.1.0
+  - r-signal =0.7
+  - r-irkernel =0.8.14
+  - r-gplots =3.0.1
+  - r-cluster =2.0.7
+  - r-heatmap3 =1.1.1
+  - r-hash =2.2.6
+  - r-fastmatch =1.1
+  - r-latticeExtra =0.6
+  - r-reshape =0.8.8
+  - r-matrixStats =0.54.0
+  - r-gdata =2.18.0
+  - perl =5.26.2
+  - coreutils =8.25
